@@ -1,0 +1,2 @@
+- [x] Fix bugs in data/deliveryOptions.js: change matchingOption to deliveryOption and fix return typo
+- [ ] Test the checkout page to ensure the error is resolved
